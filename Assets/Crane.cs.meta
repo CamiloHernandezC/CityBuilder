@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a8a5453b58fd3644da09ba0190ed64f0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rb: {instanceID: 0}
+  - craneBlock: {fileID: 8196146359450312006, guid: b2a582211c1622e468a144a9cd06feb1,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
